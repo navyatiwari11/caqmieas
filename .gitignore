@@ -43,3 +43,20 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Firebase config (keep these private!)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Flutter desktop ephemeral build dirs
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# Output files
+*.apk
+*.ipa
+
+# Env and logs
+.env
+firebase-debug.log
