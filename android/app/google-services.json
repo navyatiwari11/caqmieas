@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650355947331",
+    "project_id": "dailyreminders-456104",
+    "storage_bucket": "dailyreminders-456104.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650355947331:android:db5327a207e09a4b1de1f6",
+        "android_client_info": {
+          "package_name": "com.example.eco_innovators"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650355947331-d558m8dndpg871r1gcah2q181l96l0m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCISUK_juMygwyeIWW9xvhjXi_nxyMuuAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650355947331-d558m8dndpg871r1gcah2q181l96l0m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
