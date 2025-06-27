@@ -45,9 +45,9 @@ CAQMIEAS is an Android application built in **Flutter** that provides **real-tim
 
 ---
 
-## 🖼 Screenshots
+##  Screenshots
 
-### 🌥 Live Dashboard
+###  Live Dashboard
 ![Live Dashboard](SS1.jpg)
 
 ###  Insights Page (Graph View)
